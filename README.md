@@ -14,7 +14,6 @@
  </a>
 <br/>
 
-
 ## Language and Tools
    
 <p align="left">  
@@ -33,15 +32,8 @@
 
 
 ## My Github Stats
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=debiegarcia&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=debiegarcia&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debiegarcia&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debiegarcia&hide=php&theme=tokyonight" />
-</a>
-<a>  
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=debiegarcia&theme=tokyonight"/>
-</a> 
-</div>
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=debiegarcia&count_private=true&show_icons=true&theme=tokyonight"/>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debiegarcia&hide=php&theme=tokyonight"/>
+<br/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debiegarcia&theme=tokyonight"/>
 
