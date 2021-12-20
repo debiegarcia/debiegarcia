@@ -1,16 +1,22 @@
-### Hi there, I'm Debie Garcia de la Cruz Melo (debiegarcia) 👋
+### Hi there, I'm debiegarcia but you can call me Debie 👋
 
 ## About me
 
-- 💬 You can contact me on debiegarcia@hotmail.com
 - 🎓 I'm currently studying Software Engineering at UPC
+- 👯 I’m looking to collaborate with anyone on any project
 - 📄 I'm interested in Web Development and SQL Server
+- ⚡ Fun fact: I love swimming and travelling around the world!
 
-### Languages and Tools:
+## Find me on:
 
 <p align="left">
-<table>
-  <tr>
+ <a href="mailto:debiegarcia1@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
+<br/>
+
+
+## Language and Tools:
+   
+<p align="left">  
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> </a></td>
     <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/> </a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="50"/> </a></td>
@@ -22,16 +28,19 @@
     <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="50" /> </a></td>
     <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="50" /> </a></td>
     <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="50" /> </a> </td>
-  </tr>
-</table>
-
   
 
----
 
-## Stats
-<img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=debiegarcia&show_icons=true&include_all_commits=true&hide_border=true" alt="debiegarcia's github stats"/>  
-<img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=debiegarcia&layout=compact"/>
-<br>
+## My Github Stats
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=debiegarcia&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=debiegarcia&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=debiegarcia&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debiegarcia&hide=php&theme=tokyonight" />
+</a>
+<a>  
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=debiegarcia&theme=tokyonight"/>
+</a> 
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debiegarcia"/>
