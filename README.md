@@ -11,6 +11,7 @@
 
 <p align="left">
  <a href="mailto:debiegarcia1@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
+ </a>
 <br/>
 
 
